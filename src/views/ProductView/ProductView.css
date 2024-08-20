@@ -1,0 +1,32 @@
+
+.view{
+    font-size: large;
+    text-align: center;
+ font-family: "Roboto", sans-serif;
+ margin: 0 auto;
+ 
+}
+.title{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+
+    
+}
+.product-img{
+height: 400px;
+border-radius: 12px;
+margin-top: 20px;
+}
+
+.productinfo{
+    margin-top: 15px;
+    font-size: 25px;
+
+    margin-left: 10px;
+    font-weight: bold;
+    
+}
+.price{
+    font-weight: 600;
+}
